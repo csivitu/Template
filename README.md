@@ -113,7 +113,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-You are requested to follow this [contribution guideline] while contributing to the project :smile:.
+You are requested to follow the contribution guidelines specified in [CONTRIBUTING.md](./CONTRIBUTING.md) while contributing to the project :smile:.
 
 <!-- LICENSE -->
 ## License
